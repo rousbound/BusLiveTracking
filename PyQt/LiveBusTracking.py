@@ -1,9 +1,7 @@
-import sys
 from PyQt5.QtWidgets import QApplication, QFileSystemModel, QTreeView, QWidget, QVBoxLayout, QTreeWidgetItem
 from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import QMainWindow
 from PyQt5 import QtWidgets
-import os
 from GUI import *
 from GetBuses import *
 
