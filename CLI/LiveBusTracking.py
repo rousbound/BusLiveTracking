@@ -1,7 +1,6 @@
 import json
 import requests
 from geopy import geocoders
-import sys, traceback
 from googleAPIkey import *
 
 
